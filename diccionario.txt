@@ -1,0 +1,7 @@
+casa
+perro
+gato
+sol
+luna
+programacion
+PYTHON
